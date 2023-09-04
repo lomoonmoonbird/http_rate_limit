@@ -1,0 +1,9 @@
+"""API OPEN TIME RANGE"""
+API_OPEN_TIME = [2, 5]
+
+"""API OPEN TIME RANGE"""
+IP_WHITE_LIST = ['127.0.0.1']
+
+"""app key app secret"""
+TRANSPORT_APP_KEY = 'tzGa99gCem1qw6AZF7tJXKia'
+TRANSPORT_APP_SECRET = 'l6x99AEhO7Mgk6ZQysRmuDCZ'
